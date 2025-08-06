@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Figtree", sans-serif;
+}
+
+:root {
+  --primary-background: #f4d04e;
+  --card-background: #ffffff;
+  -gray-900: #111111;
+  --gray-500: #6b6b6b;
+}
