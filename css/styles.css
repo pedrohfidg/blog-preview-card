@@ -101,3 +101,23 @@ body {
   letter-spacing: 0rem;
   color: var(--gray-500);
 }
+
+/* Blog card Author */
+.blog-card-author {
+  display: inline-flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.blog-card-author img {
+  width: 32px;
+}
+
+.author-name {
+  font-family: "Figtree", sans-serif;
+  font-weight: 800;
+  font-size: 0.875rem;
+  line-height: 150%;
+  letter-spacing: 0rem;
+  color: var(--gray-900);
+}
